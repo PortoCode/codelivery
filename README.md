@@ -3,7 +3,10 @@ Codelivery - Delivery system that allows you to view the delivery vehicle in rea
 
 ## About
 
+Codelivery is a delivery system that allows you to view the delivery vehicle in real time. There is the possibility of having multiple simultaneous couriers. The simulator service will send the real-time position of each courier. Data for each delivery, as well as positions, are stored in Elasticsearch for later analysis.
+
 ## Technologies
+
 - Simulator: Golang
 - Backend: Nest.js & Mongo
 - Frontend: React

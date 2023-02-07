@@ -15,6 +15,12 @@ Codelivery is a delivery system that allows you to view the delivery vehicle in 
 - Docker e Kubernetes
 - Istio, Kiali, Prometheus & Grafana
 
+## System Architecture
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/49177385/217376867-18ada067-1be6-4133-ae4e-e5f99563fc5a.png" width="700px"/>
+</div>
+
 ## Credits
 
 This project was developed during the Fullcycle Immersion.

@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Repositório do back-end feito com Golang (Backend)
+Repositório do simulator feito com Golang (Backend)
 
 **Importante**: A aplicação do Apache Kafka deve estar rodando primeiro.
 
